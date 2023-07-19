@@ -19,7 +19,7 @@ def home():
         '/static/1.jpg',
         '/static/2.jpg',
         '/static/3.jpg',
-        '/static/4.jpg'
+        '/static/device5.jpg'
     ]
     return render_template('home.html', image_urls=image_urls)
 
